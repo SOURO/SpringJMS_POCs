@@ -1,0 +1,16 @@
+com\websystique\springmvc\service\OrderRepositoryImpl.class
+com\websystique\springmvc\configuration\AppConfig.class
+com\websystique\springmvc\configuration\AppInitializer.class
+com\websystique\springmvc\configuration\MessagingConfiguration.class
+com\websystique\springmvc\messaging\MessageSender.class
+com\websystique\springmvc\model\InventoryResponse.class
+com\websystique\springmvc\messaging\MessageReceiver.class
+com\websystique\springmvc\service\OrderService.class
+com\websystique\springmvc\model\OrderStatus.class
+com\websystique\springmvc\service\OrderServiceImpl.class
+com\websystique\springmvc\model\Order.class
+com\websystique\springmvc\controller\AppController.class
+com\websystique\springmvc\messaging\MessageSender$1.class
+com\websystique\springmvc\configuration\MessagingListnerConfiguration.class
+com\websystique\springmvc\service\OrderRepository.class
+com\websystique\springmvc\util\BasicUtil.class

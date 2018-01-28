@@ -1,0 +1,24 @@
+2018-01-22 19:09:00,856 | INFO  | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@7f48b7a4: startup date [Mon Jan 22 19:09:00 IST 2018]; root of context hierarchy | org.apache.activemq.xbean.XBeanBrokerFactory$1 | WrapperSimpleAppMain
+2018-01-22 19:09:02,055 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[D:\SpringJMS\apache-activemq-5.15.2\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2018-01-22 19:09:02,779 | INFO  | PListStore:[D:\SpringJMS\apache-activemq-5.15.2\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2018-01-22 19:09:02,915 | INFO  | Apache ActiveMQ 5.15.2 (localhost, ID:TL68-57964-1516628342793-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2018-01-22 19:09:02,969 | INFO  | Listening for connections at: tcp://TL68:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2018-01-22 19:09:02,981 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2018-01-22 19:09:02,986 | INFO  | Listening for connections at: amqp://TL68:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2018-01-22 19:09:02,987 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2018-01-22 19:09:02,994 | INFO  | Listening for connections at: stomp://TL68:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2018-01-22 19:09:02,996 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2018-01-22 19:09:03,009 | INFO  | Listening for connections at: mqtt://TL68:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2018-01-22 19:09:03,013 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2018-01-22 19:09:03,172 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@76c9d429{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2018-01-22 19:09:03,273 | INFO  | Listening for connections at ws://TL68:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2018-01-22 19:09:03,274 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2018-01-22 19:09:03,276 | INFO  | Apache ActiveMQ 5.15.2 (localhost, ID:TL68-57964-1516628342793-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2018-01-22 19:09:03,277 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2018-01-22 19:09:04,262 | INFO  | No Spring WebApplicationInitializer types detected on classpath | /admin | WrapperSimpleAppMain
+2018-01-22 19:09:04,469 | INFO  | ActiveMQ WebConsole available at http://0.0.0.0:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2018-01-22 19:09:04,469 | INFO  | ActiveMQ Jolokia REST API available at http://0.0.0.0:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2018-01-22 19:09:04,569 | INFO  | Initializing Spring FrameworkServlet 'dispatcher' | /admin | WrapperSimpleAppMain
+2018-01-22 19:09:04,870 | INFO  | No Spring WebApplicationInitializer types detected on classpath | /api | WrapperSimpleAppMain
+2018-01-22 19:09:05,095 | INFO  | jolokia-agent: Using policy access restrictor classpath:/jolokia-access.xml | /api | WrapperSimpleAppMain
+2018-01-22 19:18:28,211 | INFO  | Connector vm://localhost started | org.apache.activemq.broker.TransportConnector | qtp1832418854-44
